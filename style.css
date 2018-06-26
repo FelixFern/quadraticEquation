@@ -46,11 +46,6 @@ div p {
     div h1 {
         font-size: 3.5vh;
     }   
-    div h1 {
-        font-family: fabrica;
-        font-size: 4vh;
-        margin-bottom: -5px
-    }
     #credit {
         margin: 0; 
         font: fabrica;
